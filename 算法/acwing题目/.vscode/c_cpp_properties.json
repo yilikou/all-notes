@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${default}",
+                "/System/Library/Frameworks/Kernel.framework/Versions/A/Headers/security",
+                "/usr/local/Cellar/gcc/9.3.0/include/c++/9.3.0/x86_64-apple-darwin17/bits"
+            ],
+            "compilerPath": "/usr/local/bin/gcc-9",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "macos-clang-x64"
+        }
+    ],
+    "version": 4
+}
